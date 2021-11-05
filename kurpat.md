@@ -1,0 +1,1 @@
+kurpat ovat somia vesilintuja
