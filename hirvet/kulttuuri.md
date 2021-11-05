@@ -1,3 +1,0 @@
-# Hirvet Suomen kulttuurissa
-
-Ovat
