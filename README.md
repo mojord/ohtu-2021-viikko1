@@ -1,3 +1,4 @@
 # ohtu-2021-viikko1
 
-jee
+
+![GitHub Actions](https://github.com/mojord/ohtu-2021-viikko1/workflows/CI/badge.svg)
